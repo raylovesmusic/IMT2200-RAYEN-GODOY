@@ -1,4 +1,3 @@
 # IMT2200-RAYEN-GODOY
-Intro a Ciencia de Datos
-Rayén Andrea Godoy Olivares
+Rayén Andrea Godoy Olivares, Intro a Ciencia de Datos
 (Se vienen cositas 🔥🔥🔥🤑)
